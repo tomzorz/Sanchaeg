@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanchaeg", "Sanchaeg\Sanchaeg.csproj", "{68C17829-6947-428F-A24C-1DE60A7349ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanchaeg.Tests", "Sanchaeg.Tests\Sanchaeg.Tests.csproj", "{9170F6E4-9FF5-4873-9763-F6995F913CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C17829-6947-428F-A24C-1DE60A7349ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C17829-6947-428F-A24C-1DE60A7349ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C17829-6947-428F-A24C-1DE60A7349ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C17829-6947-428F-A24C-1DE60A7349ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9170F6E4-9FF5-4873-9763-F6995F913CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9170F6E4-9FF5-4873-9763-F6995F913CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9170F6E4-9FF5-4873-9763-F6995F913CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9170F6E4-9FF5-4873-9763-F6995F913CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9029C5EA-9FC4-4FF3-BFA4-2036C559F1D0}
+	EndGlobalSection
+EndGlobal
