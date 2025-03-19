@@ -9,9 +9,14 @@
     <Authors>Tamás Deme</Authors>
     <PackageProjectUrl>https://github.com/tomzorz/Sanchaeg</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\..\..\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
     <None Include="..\..\..\README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
